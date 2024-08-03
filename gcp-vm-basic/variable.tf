@@ -1,13 +1,13 @@
 variable "project" {
-  default = "gcp-project-name"
+  default = "xxxxxx"
 }
 
 variable "region" {
-  default = "region-name"
+  default = "us-central1"
 }
 
 variable "zone" {
-  default = "zone-name"
+  default = "us-central1-a"
 }
 
 variable "image" {
